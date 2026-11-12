@@ -210,4 +210,4 @@ defining-your-users/
 
 **Notes:** This is a hands-on write-up based on Okta's *Define Your Users in Okta* lab guide (v2026.03); the guide itself isn't redistributed here. Nina Shah and `org1.com` are fictitious lab data. Personal email addresses and IP addresses are blacked out in the screenshots, and browser tabs are cropped out.
 
-**Author:** Takudzwa Vuma · B.A. Computer Information Systems (IAM, Cloud & AI Security), Talladega College
+**Author:** Jackson T. Vuma · B.A. Computer Information Systems (IAM, Cloud & AI Security), Talladega College
