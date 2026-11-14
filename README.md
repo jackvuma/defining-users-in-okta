@@ -60,7 +60,7 @@ stateDiagram-v2
 
 ---
 
-## Case scenarios (STAR)
+## Case scenarios 
 
 ### 1. Extend the identity profile with a governed "Region" attribute
 
@@ -181,9 +181,9 @@ stateDiagram-v2
 
 `Okta Admin Console` `Universal Directory` `Profile Editor` `Custom attributes / schema extension` `User provisioning` `Joiner & leaver workflows` `Account lifecycle management` `Password reset` `Credential compromise response` `Session revocation` `Account lockout remediation` `MFA enrollment (Okta Verify)` `Offboarding & deprovisioning` `System Log auditing` `Screenshot redaction`
 
-## Up next
+## Next Focus
 
-- **Lab 02: attribute mappings.** Map Okta user attributes to Okta Workflows, using Okta Expression Language for role mapping, and compare *create only* vs. *create and update* sync behavior.
+- **Lab 02: attribute mappings.** Mapping Okta user attributes to Okta Workflows, using Okta Expression Language for role mapping, and compare *create only* vs. *create and update* sync behavior.
 - **Open item from the dashboard:** *"Assign the super admin role to another user."* A second super admin (break-glass account) avoids a single point of failure for admin access.
 
 ## Repository structure
